@@ -1,0 +1,31 @@
+commit 8a45ffe22821ecad9796ff08fadcf6770e37d85b
+Author: KostaProKVP8 <kvp8@njit.edu>
+Date:   Wed Feb 18 20:38:32 2026 -0500
+
+    Revert "Made new text file with text"
+    
+    This reverts commit 1cc1f4ecd491c7e09c78e3aa1350b18563c2107d.
+
+commit 1cc1f4ecd491c7e09c78e3aa1350b18563c2107d
+Author: KostaProKVP8 <kvp8@njit.edu>
+Date:   Wed Feb 18 20:33:58 2026 -0500
+
+    Made new text file with text
+
+commit a8d1a1767302d729388f37288e7cf40ed77d2e6d
+Author: KostaProKVP8 <kvp8@njit.edu>
+Date:   Wed Feb 18 20:27:02 2026 -0500
+
+    Added comment to hostname
+
+commit 25168556e3ee91568e02139692c5f360128b7929
+Author: KostaProKVP8 <kvp8@njit.edu>
+Date:   Wed Feb 18 18:16:13 2026 -0500
+
+    Message Printed & Added to os-release
+
+commit 0134389cabca5a05fc26415ba623605fe105b013
+Author: KostaProKVP8 <kvp8@njit.edu>
+Date:   Wed Feb 18 18:08:35 2026 -0500
+
+    Initial Starting Point of the repo
